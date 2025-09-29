@@ -12,7 +12,7 @@ Este repositório documenta a solução para um desafio de projeto de banco de d
 
 O modelo final foi projetado para ser robusto, normalizado e escalável, atendendo a todos os requisitos propostos no desafio.
 
-![Diagrama ERD Final](Desafio%20SQL.png)
+![Diagrama ERD Final](DesafioSQL/DesafioSQL.png)
 
  Destaques da Modelagem
 
